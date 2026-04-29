@@ -7,7 +7,17 @@ export const site = {
   "email": "help@moldremediationfrederick.com",
   "category": "Water damage restoration service",
   "hero": "Mold Remediation in Frederick",
-  "sub": "Inspection, containment, removal, air filtration, moisture correction, and post-remediation guidance for Frederick homes and buildings.",
+  "sub": "Stop mold at the source with a containment-first plan, clear scope, and remediation that protects your property.",
+  "homeLead": "Mold Problems Get More Expensive The Longer You Wait",
+  "homePain": "If odor, stains, moisture, or recurring growth are showing up, waiting can increase damage, stress, and health concerns.",
+  "homePromise": "You get a containment-first response, a clear remediation path, and practical guidance to keep the issue from returning.",
+  "homeBullets": [
+    "Source-first moisture diagnosis",
+    "Clear containment and safety steps",
+    "Scope written in plain language",
+    "Post-remediation guidance for long-term control"
+  ],
+  "homeClose": "Need A Clear Mold Remediation Plan Before It Spreads Further?",
   "accent": "#2c8c8c",
   "dark": "#11171a",
   "light": "#eef7f6",
