@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moldremediationfrederick.com/sitemap-index.xml
