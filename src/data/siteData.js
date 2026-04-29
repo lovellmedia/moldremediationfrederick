@@ -6,7 +6,7 @@ export const site = {
   "phone": "(240) 555-0199",
   "email": "help@moldremediationfrederick.com",
   "category": "Water damage restoration service",
-  "hero": "Clean, Contained Mold Remediation in Frederick",
+  "hero": "Mold Remediation in Frederick",
   "sub": "Inspection, containment, removal, air filtration, moisture correction, and post-remediation guidance for Frederick homes and buildings.",
   "accent": "#2c8c8c",
   "dark": "#11171a",
