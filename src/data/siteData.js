@@ -18,6 +18,11 @@ export const site = {
     "Post-remediation guidance for long-term control"
   ],
   "homeClose": "Need A Clear Mold Remediation Plan Before It Spreads Further?",
+  "homeVisualTitle": "Mold Remediation Needs Control Before Removal",
+  "homeVisualBody": "Mold is not just a surface problem. Moisture, airflow, containment, access, and cleanup standards all matter if you want the issue handled correctly.",
+  "homeResultTitle": "A Cleaner Space Starts With A Clear Scope",
+  "homeResultBody": "You should know what is being contained, what is being removed, and what needs to change so the problem does not keep coming back.",
+  "homeFinalBody": "Tell us what you see, smell, or suspect. We will help you understand the risk, the likely source, and the safest next step for your property.",
   "accent": "#2c8c8c",
   "dark": "#11171a",
   "light": "#eef7f6",
